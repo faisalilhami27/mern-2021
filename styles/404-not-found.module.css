@@ -1,0 +1,27 @@
+/* Complete Checkout */
+.not-found {
+  max-width: 66%;
+  height: auto;
+}
+
+.img-fluid {
+  max-width: 60%;
+  height: auto;
+}
+
+.btn-homepage-cover {
+  margin-top: -6rem;
+}
+
+.not-found .btn-homepage {
+  padding: 0.75rem;
+  background-color: #4D17E2;
+}
+
+@media (min-width: 768px) {
+  .not-found .button-group {
+    width: 190px;
+  }
+}
+
+/*  */
