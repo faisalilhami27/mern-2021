@@ -1,11 +1,11 @@
 export default function CompleteCheckout() {
   return (
-    <section className="complete-checkout mx-auto pt-lg-145 pb-lg-145 pt-100 pb-80">
+    <section className="complete-checkout mx-auto pt-lg-40">
       <div className="container-fluid">
         <div className="text-center">
           <svg className="img-fluid"
-               width="343"
-               height="300"
+               width="242"
+               height="200"
                viewBox="0 0 343 300"
                fill="none"
                xmlns="http://www.w3.org/2000/svg"
